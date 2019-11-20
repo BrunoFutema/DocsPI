@@ -1,17 +1,14 @@
 # DocsPI
 
 
-- Formatação da especificacao de caso de uso
-- APF (Pontos de função)
+- Formatação da especificacao de caso de uso - 30%
+- APF (Pontos de função) - 75%
 
-- Rever alguns casos de uso
-- Diagrama de Classes e Sequencia
+- Rever alguns casos de uso - 100%
+- Diagrama de Classes - 80%
+- Diagrama de Sequencia - 0%
 
+- Proposta de solução - Fazendo
+- Slide (Foco na proposta de solução) - Fazendo
 
-
-- Proposta de solução 
-- Slide (Foco na proposta de solução)
-
-
-
-- Prototipo (Opcional)
+- Prototipo (Opcional) -1000%
