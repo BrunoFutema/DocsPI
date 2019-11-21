@@ -6,5 +6,6 @@
 
 - Slide (Foco na proposta de solução) - Fazendo: ?
 
-Bruno: Diagrama de Sequência de Integração com o Drone.
-Jhonatan: Diagrama de Sequência de Integração com o sistema de PagSeguro.
+
+- Bruno: Diagrama de Sequência de Integração com o Drone.
+- Jhonatan: Diagrama de Sequência de Integração com o sistema de PagSeguro.
