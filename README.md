@@ -2,13 +2,17 @@
 
 
 - Formatação da especificacao de caso de uso - 30%
-- APF (Pontos de função) - 100%
 
-- Rever alguns casos de uso - 100%
-- Diagrama de Classes - 100%
 - Diagrama de Sequencia - 0%
 
 - Proposta de solução - Fazendo
-- Slide (Foco na proposta de solução) - Fazendo
 
-- Prototipo (Opcional) -1000%
+
+
+Bruno: Formatação
+Bruno: Diagrama de Sequência de Integração com o Drone.
+
+- Slide (Foco na proposta de solução) - Fazendo: ?
+
+Jhonatan: Caso de Uso Comprar Produtos.
+Jhonatan: Diagrama de Sequência de Integração com o sistema de PagSeguro.
